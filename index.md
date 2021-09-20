@@ -35,8 +35,8 @@ IEEE International Symposium on Information Theory (ISIT 2021).\
 [[Vedio]](assets/publication/ISIT2021.mp4)
 
 
-- **A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations.\
-Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.**\
+- **A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations.**\
+Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
 IEEE International Symposium on Biomedical Imaging (ISBI 2020).\
 [[ISBI]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662)
 [[Slides]](assets/publication/ISBI2020.pptx)
