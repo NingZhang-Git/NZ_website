@@ -1,11 +1,11 @@
-title: ""
+# title: ""
 # author:
   # name: GitHub User
   # email:
 description: Last modified in 2021 Sep.
 # baseurl: "/nz" # the subpath of your site, e.g. /blog
-url: "https:/ningzhang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
+url: "https://nz917.github.io/nz/" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: G-0BTYF9E8YK
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
