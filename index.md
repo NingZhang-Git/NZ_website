@@ -26,14 +26,18 @@ Beyond what I am working on, I am interested in spectral method, statistical lea
 
 ## **Publications and preprints**
 
-- Ning Zhang, Weina Wang, and Lele Wang. "Attributed Graph Alignment.". In Proceedings of IEEE International Symposium on Information Theory, (ISIT 2021).\
+- Attributed Graph Alignment.\
+Ning Zhang, Weina Wang, and Lele Wang.\
+IEEE International Symposium on Information Theory, (ISIT 2021).\
 [[arxiv]](https://arxiv.org/pdf/2102.00665.pdf)
 [[Slides]](assets/publication/ISIT2021.pdf)
 [[NASIT-Poster]](assets/publication/NASIT2021.pdf)
 [[Vedio]](assets/publication/ISIT2021.mp4)
 
 
-- Ning Zhang, Francis, S., Malik, R. A., and Chen, X. A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations. In Proceedings of IEEE International Symposium on Biomedical Imaging (ISBI 2020).\
+- A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations.\
+Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
+IEEE International Symposium on Biomedical Imaging (ISBI 2020).\
 [[ISBI]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662)
 [[Slides]](assets/publication/ISBI2020.pptx)
 [[Code]](https://github.com/XinChenNottingham/SpatiallyConstrainedDCNN)
@@ -42,7 +46,7 @@ Beyond what I am working on, I am interested in spectral method, statistical lea
 <br/>
 
 ## **Teaching**
-- Fall 2021 Tutorial for ELEC321/STAT321 Stochastic Signals and Systems
+- Fall 2021 TA for ELEC321/STAT321 Stochastic Signals and Systems
 - Spring 2021 Tutorial for ELEC321/STAT321 Stochastic Signals and Systems
 - Fall 2020 TA for ELEC321/STAT321 Stochastic Signals and Systems
 - Spring 2020 Lab TA for ELEC291 Electrical Engineering Design Studio I
