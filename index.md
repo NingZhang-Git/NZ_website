@@ -24,7 +24,6 @@ Beyond what I am working on, I am interested in spectral method, statistical lea
 <br/>
 <br/>
 
-
 ## **Publications and preprints**
 
 - Ning Zhang, Weina Wang, and Lele Wang. "Attributed Graph Alignment.". In Proceedings of IEEE International Symposium on Information Theory, (ISIT 2021).\
@@ -47,5 +46,3 @@ Beyond what I am working on, I am interested in spectral method, statistical lea
 - Spring 2021 Tutorial for ELEC321/STAT321 Stochastic Signals and Systems
 - Fall 2020 TA for ELEC321/STAT321 Stochastic Signals and Systems
 - Spring 2020 Lab TA for ELEC291 Electrical Engineering Design Studio I
-<br/>
-<br/>
