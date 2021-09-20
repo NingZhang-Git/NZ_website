@@ -11,7 +11,7 @@ layout: home
 <!-- ### <center>Welcom to my personal webpage!</center> -->
 ## **About Me**
 I am a research based master student in the department of ECE at the University of British Columbia. I am fortunate to work with Lele Wang and Weina Wang on my thesis project. Prior to that, I obtained my Bachelor of Science in Physics from school of Poling at Nankai University in 2019.\
-[[My CV]](assets/NingZhangCV.pdf)
+[[MyCV]](assets/NingZhangCV.pdf)
 <br>
 **Contact**: ningz[at]ece[dot]ubc[dot]ca
 <br>
@@ -32,7 +32,7 @@ IEEE International Symposium on Information Theory (ISIT 2021).\
 [[arxiv]](https://arxiv.org/pdf/2102.00665.pdf)
 [[Slides]](assets/publication/ISIT2021.pdf)
 [[NASIT-Poster]](assets/publication/NASIT2021.pdf)
-[[Vedio]](assets/publication/ISIT2021.mp4)
+[[Video]](assets/publication/ISIT2021.mp4)
 
 
 - **A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations.**\
