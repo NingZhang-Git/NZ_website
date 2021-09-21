@@ -10,7 +10,7 @@ layout: home
 # <center> <b>Ning Zhang</b> </center>
 <!-- ### <center>Welcom to my personal webpage!</center> -->
 ## **About Me**
-I am a research based master student in the department of ECE at the University of British Columbia. I am fortunate to work with Lele Wang and Weina Wang on my thesis project. Prior to that, I obtained my Bachelor of Science in Physics from school of Poling at Nankai University in 2019.\
+I am a research based master student in the department of ECE at the University of British Columbia and my superviser is Lele Wang. I am fortunate to work with Lele Wang and Weina Wang on my thesis project. Prior to that, I obtained my Bachelor of Science in Physics from school of Poling at Nankai University in 2019.\
 [[MyCV]](assets/NingZhangCV.pdf)
 <br>
 **Contact**: ningz[at]ece[dot]ubc[dot]ca
