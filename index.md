@@ -39,9 +39,9 @@ IEEE International Symposium on Information Theory (ISIT 2021).\
 Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
 IEEE International Symposium on Biomedical Imaging (ISBI 2020).\
 [[ISBI]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662)
-[[Slides]](assets/publication/ISBI2020.pptx)
+[[Slides]](assets/publication/ISBI2020.pdf)
 [[Code]](https://github.com/XinChenNottingham/SpatiallyConstrainedDCNN)
-[[Video]](assets/publication/ISBI2020.mov)
+[[Video]](assets/publication/ISBI2020.mp4)
 <br/>
 <br/>
 
