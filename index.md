@@ -18,9 +18,9 @@ I am a research based master student in the department of ECE at the University 
 <br>
 <br>
 ## **Research**
-My current research interest is mainly about graph theory, probability theory  and random algorithms. More specifically, I'm  studying graph alignment problems. For such problem, I mainly focuses on investigating the information-theoretical and designing  efficient algorithms, which will succeed with high probability for graphs generated from some particular random graph models.
+My current research interest is mainly about graph theory, probability theory and random algorithms. More specifically, I'm studying graph alignment problems. For such a problem, I mainly focus on investigating the information-theoretical and designing efficient algorithms, which will succeed with high probability for graphs generated from some particular random graph models.
 
-Beyond what I am working on, I am interested in spectral method, statistical learning theory. I also know fundamental physics and basic of machine learning.
+Beyond what I am working on, I am interested in spectral methods and statistical learning theory. I also know fundamental physics and some basics of machine learning.
 <br/>
 <br/>
 
