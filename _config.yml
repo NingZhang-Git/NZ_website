@@ -2,7 +2,8 @@ title: ""
 # author:
   # name: GitHub User
   # email:
-description: Last modified in 2021 Sep.\Tempelate modified from [Minima](https://github.com/jekyll/minima)
+description: Last modified in 2021 Sep.
+# \Tempelate modified from [Minima](https://github.com/jekyll/minima)
 
 # baseurl: "/nz" # the subpath of your site, e.g. /blog
 url: "https://nz917.github.io/nz/" # the base hostname & protocol for your site, e.g. http://example.com
