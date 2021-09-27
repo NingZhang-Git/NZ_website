@@ -11,7 +11,7 @@ layout: home
 <!-- ### <center>Welcom to my personal webpage!</center> -->
 ## **About Me**
 I am a research based master student in the department of ECE at the University of British Columbia and my superviser is Lele Wang. I am fortunate to work with Lele Wang and Weina Wang on my thesis project about graph alignment. Prior to that, I obtained my Bachelor of Science in Physics from school of Poling at Nankai University in 2019.\
-[[MyCV]](assets/NingZhangCV.pdf)
+[[Curriculum Vitae]](assets/NingZhangCV.pdf)
 <br>
 **Contact**: ningz[at]ece[dot]ubc[dot]ca
 <br>
