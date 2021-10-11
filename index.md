@@ -10,7 +10,7 @@ layout: home
 # <center> <b>Ning Zhang</b> </center>
 <!-- ### <center>Welcom to my personal webpage!</center> -->
 ## **About Me**
-<hr>
+<hr style="border:2px solid gray"> </hr>
 I am a research based master student in the department of ECE at the University of British Columbia and my superviser is Lele Wang. I am fortunate to work with Lele Wang and Weina Wang on my thesis project about graph alignment. Prior to that, I obtained my Bachelor of Science in Physics from school of Poling at Nankai University in 2019.\
 [[Curriculum Vitae]](assets/NingZhangCV.pdf)
 <br>
@@ -19,7 +19,7 @@ I am a research based master student in the department of ECE at the University 
 <br>
 <br>
 ## **Research**
-<hr>
+<hr style="border:2px solid gray"> </hr>
 My current research interest is mainly about graph theory, probability theory and algorithms. More specifically, I'm studying graph alignment problems. For such a problem, I mainly focus on investigating the information-theoretical and designing efficient algorithms, which will succeed with high probability for graphs generated from some particular random graph models.
 
 Beyond what I am working on, I am interested in spectral methods and statistical learning theory. I also know fundamental physics and some basics of machine learning. I am excited to see the transformation of ideas and methods among very different research fields, and I am very motivated to prove things built on some interesting intuitions/images.
@@ -27,7 +27,7 @@ Beyond what I am working on, I am interested in spectral methods and statistical
 <br/>
 
 ## **Publications and preprints**
-<hr>
+<hr style="border:2px solid gray"> </hr>
 - **Attributed Graph Alignment.**\
 Ning Zhang, Weina Wang, and Lele Wang.\
 IEEE International Symposium on Information Theory (ISIT 2021).\
@@ -48,7 +48,7 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).\
 <br/>
 
 ## **Teaching**
-<hr>
+<hr style="border:2px solid gray"> </hr>
 - Fall 2021 TA for ELEC321/STAT321 Stochastic Signals and Systems
 - Spring 2021 Tutorial for ELEC321/STAT321 Stochastic Signals and Systems
 - Fall 2020 TA for ELEC321/STAT321 Stochastic Signals and Systems
