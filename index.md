@@ -28,7 +28,7 @@ Beyond what I am working on, I am interested in spectral methods and statistical
 - **Attributed Graph Alignment.**\
 Ning Zhang, Weina Wang, and Lele Wang.\
 IEEE International Symposium on Information Theory (ISIT 2021).\
-[[arxiv]](https://arxiv.org/pdf/2102.00665.pdf)
+[[arXiv]](https://arxiv.org/pdf/2102.00665.pdf)
 [[Slides]](assets/publication/ISIT2021.pdf)
 [[NASIT-Poster]](assets/publication/NASIT2021.pdf)
 [[Video]](assets/publication/ISIT2021.mp4)\
