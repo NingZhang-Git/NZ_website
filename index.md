@@ -16,6 +16,7 @@ I am a research based master student in the department of ECE at the University 
 **Contact**: ningz[at]ece[dot]ubc[dot]ca
 <br>
 <br>
+<br>
 ## **Research**
 My current research interest is mainly about graph theory, probability theory and algorithms. More specifically, I'm studying graph alignment problems. For such a problem, I mainly focus on investigating the information-theoretical and designing efficient algorithms, which will succeed with high probability for graphs generated from some particular random graph models.
 
