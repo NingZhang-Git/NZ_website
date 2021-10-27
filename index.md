@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="float: left; margin-right: 30px" src="assets/img/profile.JPG" width="230"/>
+<img style="float: left; margin-right: 30px; margin-top: 30px;" src="assets/img/profile.JPG" width="230"/>
 
 # <center> <b>Ning Zhang</b> </center>
 <!-- ### <center>Welcom to my personal webpage!</center> -->
