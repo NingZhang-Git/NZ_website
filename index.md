@@ -32,7 +32,7 @@ IEEE International Symposium on Information Theory (ISIT 2021).\
 [[Slides]](assets/publication/ISIT2021.pdf)
 [[NASIT-Poster]](assets/publication/NASIT2021.pdf)
 [[Video]](assets/publication/ISIT2021.mp4)\
-<span style="color:blue">some *blue* **Our poster won the best poster prize in NASIT 2021.**</span>.
+<span style="color:blue"> *Our poster won the best poster prize in NASIT 2021.*</span>.
 
 - **A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations.**\
 Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
