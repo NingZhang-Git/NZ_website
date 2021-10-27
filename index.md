@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="float: left; margin-right: 30px; margin-top: 30px;" src="assets/img/profile.JPG" width="230"/>
+<img style="float: left; margin-right: 30px; margin-top: 50px;" src="assets/img/profile.JPG" width="230"/>
 
 # <center> <b>Ning Zhang</b> </center>
 <!-- ### <center>Welcom to my personal webpage!</center> -->
@@ -14,7 +14,6 @@ I am a research based master student in the department of ECE at the University 
 [[Curriculum Vitae]](assets/NingZhangCV.pdf)
 <br>
 **Contact**: ningz[at]ece[dot]ubc[dot]ca
-<br>
 <br>
 <br>
 ## **Research**
