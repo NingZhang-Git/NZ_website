@@ -49,3 +49,6 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).\
 - Spring 2021 Tutorial for ELEC321/STAT321 Stochastic Signals and Systems
 - Fall 2020 TA for ELEC321/STAT321 Stochastic Signals and Systems
 - Spring 2020 Lab TA for ELEC291 Electrical Engineering Design Studio I
+
+## Other resources
+- [More Is Different: Broken symmetry and the nature of the hierarchical structure of science.](https://www.science.org/doi/10.1126/science.177.4047.393) By P W Anderson
