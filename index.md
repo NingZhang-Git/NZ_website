@@ -51,5 +51,5 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).\
 - Spring 2020 Lab TA for ELEC291 Electrical Engineering Design Studio I
 
 ## **Other resources**
-% Things I enjoy reading regularly:
+[//]: <> (Things I enjoy reading regularly:)
 - [More Is Different: Broken symmetry and the nature of the hierarchical structure of science.](https://www.science.org/doi/10.1126/science.177.4047.393) By P W Anderson
