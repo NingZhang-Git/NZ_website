@@ -18,9 +18,8 @@ I am a research based master student in the department of ECE at the University 
 <br>
 <br>
 ## **Research**
-My current research mainly lies in graph theory, probability theory and graph algorithms. In particular, I'm studying graph alignment problems. For such a problem, I mainly focus on investigating the information-theoretical limits and designing efficient algorithms, which will succeed with high probability for graphs generated from some random graph models.
-
-In a general sense, I am interested in the mathematical foundations of data science and learning problems, which involve theory about probability, graphs, algorithms, statistics, optimization etc. For example, I am interested in studying random graphs and efficient graph algorithms with provable performance guarantees that go beyond the worst-case. I am excited to see the transformation of ideas and methods among different research fields, and I am very motivated to prove things built on some interesting intuitions or with strong application motivations.
+In a general sense, I am interested in the mathematical foundations of data science and computational problems, which may involve theories about probability, combitorics, algorithms, statistics, optimization, etc. For computational tasks, I am particularly interested in providing provable performance guarantees that go beyond the worst-case scenario. I am excited to see the transformation of ideas across different research fields, and I am very motivated to prove things built on interesting intuitions or compelling application motivations. 
+Currently, I'm working on the random graph alignment problem. For such a problem, I mainly focus on characterizing the information-theoretical limits and designing efficient algorithms with a high probability of success.
 <br/>
 <br/>
 
