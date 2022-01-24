@@ -44,9 +44,9 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).\
 <br/>
 
 ## **Teaching**
-- Fall 2021 Teaching assistant for ELEC321/STAT321 Stochastic Signals and Systems
-- Spring 2021 Teaching assistant for ELEC321/STAT321 Stochastic Signals and Systems
-- Fall 2020 Teaching assistant for ELEC321/STAT321 Stochastic Signals and Systems
+- Fall 2021 Teaching assistant for STAT321 Stochastic Signals and Systems
+- Spring 2021 Teaching assistant for STAT321 Stochastic Signals and Systems
+- Fall 2020 Teaching assistant for STAT321 Stochastic Signals and Systems
 - Spring 2020 Lab assistant for ELEC291 Electrical Engineering Design Studio I
 
 ## **Other resources**
