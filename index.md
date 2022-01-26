@@ -28,6 +28,7 @@ Currently, I'm working on the random graph alignment problem. For such a problem
 Attributed Graph Alignment.**\
 Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
 [[arXiv]](https://arxiv.org/pdf/2201.10106.pdf)
+
 - **Attributed Graph Alignment.**\
 Ning Zhang, Weina Wang, and Lele Wang.\
 IEEE International Symposium on Information Theory (ISIT 2021).\
