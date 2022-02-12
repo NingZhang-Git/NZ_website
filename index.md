@@ -27,7 +27,7 @@ Currently, I'm working on the random graph alignment problem. For such a problem
 - **On the Feasible Region of Efficient Algorithms for
 Attributed Graph Alignment.**\
 Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
-[[arXiv]](https://arxiv.org/pdf/2201.10106.pdf)
+Submitted to ISIT 2022 [[arXiv]](https://arxiv.org/pdf/2201.10106.pdf)
 
 - **Attributed Graph Alignment.**\
 Ning Zhang, Weina Wang, and Lele Wang.\
@@ -40,7 +40,7 @@ IEEE International Symposium on Information Theory (ISIT 2021).\
 
 - **Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography.**\
 Xin Zhou, Sina Maloufi, Daniel C. Louie, Ning Zhang, Qihao Liu, Tim K. Lee, and Shuo Tang.\
-Biomedical Optics Express (2021) [[BOE]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5073&id=453470)\
+Biomedical Optics Express (2021) [[BOE]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5073&id=453470)
 
 - **A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations.**\
 Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
