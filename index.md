@@ -31,7 +31,7 @@ Submitted to ISIT 2022 [[arXiv]](https://arxiv.org/pdf/2201.10106.pdf)
 
 - **Attributed Graph Alignment.**\
 Ning Zhang, Weina Wang, and Lele Wang.\
-IEEE International Symposium on Information Theory (ISIT 2021).\
+IEEE International Symposium on Information Theory (ISIT 2021).
 [[arXiv]](https://arxiv.org/pdf/2102.00665.pdf)
 [[Slides]](assets/publication/ISIT2021.pdf)
 [[NASIT-Poster]](assets/publication/NASIT2021.pdf)
@@ -44,7 +44,7 @@ Biomedical Optics Express (2021) [[BOE]](https://opg.optica.org/boe/fulltext.cfm
 
 - **A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations.**\
 Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
-IEEE International Symposium on Biomedical Imaging (ISBI 2020).\
+IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 [[ISBI]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662)
 [[Slides]](assets/publication/ISBI2020.pdf)
 [[Code]](https://github.com/XinChenNottingham/SpatiallyConstrainedDCNN)
