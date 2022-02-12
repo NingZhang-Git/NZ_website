@@ -38,6 +38,10 @@ IEEE International Symposium on Information Theory (ISIT 2021).\
 [[Video]](assets/publication/ISIT2021.mp4)\
 <span style="color:blue"> *Our poster won the best poster prize in NASIT 2021.*</span>
 
+- **Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography.**\
+- Xin Zhou, Sina Maloufi, Daniel C. Louie, Ning Zhang, Qihao Liu, Tim K. Lee, and Shuo Tang.\
+- Biomedical Optics Express (2021) [[BOE]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5073&id=453470)\
+
 - **A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations.**\
 Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
 IEEE International Symposium on Biomedical Imaging (ISBI 2020).\
