@@ -48,7 +48,7 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 [[ISBI]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662)
 [[Slides]](assets/publication/ISBI2020.pdf)
 [[Code]](https://github.com/XinChenNottingham/SpatiallyConstrainedDCNN)
-[[Video]](assets/publication/ISBI2020.mp4)
+<!-- [[Video]](assets/publication/ISBI2020.mp4) -->
 <br/>
 <br/>
 
