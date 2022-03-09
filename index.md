@@ -49,7 +49,7 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 <br/>
 
 ## **Talks**
-- Aug. 2021: [Poster](assets/publication/NASIT2021.pdf) presentation at North American School of Information Theory (<span style="color:pink"> best poster prize!</span>);
+- Aug. 2021: [Poster](assets/publication/NASIT2021.pdf) presentation at North American School of Information Theory (<span style="color:pink">**best poster prize!**</span>);
 - Aug. 2021: [Empirical vector quantization](assets/SLT-chap10.pdf) at UBC statistical learning theory reading group; 
 - Jul. 2021: [Empirical risk minimization and Rademacher averages](assets/SLT-chap6.pdf) at UBC statistical learning theory reading group; 
 - Jun. 2021: [Attributed graph alignment](assets/publication/ISIT2021.pdf) at ISIT [(Video)](assets/publication/ISIT2021.mp4);
