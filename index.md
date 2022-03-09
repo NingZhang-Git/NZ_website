@@ -33,7 +33,7 @@ Submitted to ISIT 2022 [[arXiv]](https://arxiv.org/pdf/2201.10106.pdf)
 Ning Zhang, Weina Wang, and Lele Wang.\
 IEEE International Symposium on Information Theory (ISIT 2021).
 [[arXiv]](https://arxiv.org/pdf/2102.00665.pdf)\
-<span style="color:blue"> *Our poster won the best poster prize in NASIT 2021.*</span>
+<!-- <span style="color:blue"> *Our poster won the best poster prize in NASIT 2021.*</span> -->
 
 - **Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography.**\
 Xin Zhou, Sina Maloufi, Daniel C. Louie, Ning Zhang, Qihao Liu, Tim K. Lee, and Shuo Tang.\
@@ -49,10 +49,10 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 <br/>
 
 ## **Talks**
-- Aug. 2021: [Poster](assets/publication/NASIT2021.pdf) presentation at North American School of Information Theory;
+- Aug. 2021: [Poster](assets/publication/NASIT2021.pdf) presentation at North American School of Information Theory (best poster prize!);
 - Aug. 2021: [Empirical vector quantization](assets/SLT-chap10.pdf) at UBC statistical learning theory reading group; 
 - Jul. 2021: [Empirical Risk minimization and Rademacher averages](assets/SLT-chap6.pdf) at UBC statistical learning theory reading group; 
-- Jun. 2021: [Attributed grap alignment](assets/publication/ISIT2021.pdf) at ISIT [(Video)](assets/publication/ISIT2021.mp4);
+- Jun. 2021: [Attributed graph alignment](assets/publication/ISIT2021.pdf) at ISIT [(Video)](assets/publication/ISIT2021.mp4);
 - Jun. 2020: [Semidefinite programing for SBM clustering and Grothendieck inequality](assets/2020MDS.pdf) at UBC statistical inference on graphs reading group; 
 - Apr. 2020: [Spatially constrained DCNN for image segmentation](assets/publication/ISBI2020.pdf) at ISBI;
 
