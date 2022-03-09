@@ -29,20 +29,20 @@ Attributed Graph Alignment.**\
 Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
 Submitted to ISIT 2022 [[arXiv]](https://arxiv.org/pdf/2201.10106.pdf)
 
-- **Attributed Graph Alignment.**\
+- **[Attributed Graph Alignment](https://arxiv.org/pdf/2102.00665.pdf) .**\
 Ning Zhang, Weina Wang, and Lele Wang.\
 IEEE International Symposium on Information Theory (ISIT 2021).
-[[arXiv]](https://arxiv.org/pdf/2102.00665.pdf)
+<!-- [[arXiv]] -->
 <!-- <span style="color:blue"> *Our poster won the best poster prize in NASIT 2021.*</span> -->
 
-- **Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography.**\
+- **[Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5073&id=453470).**\
 Xin Zhou, Sina Maloufi, Daniel C. Louie, Ning Zhang, Qihao Liu, Tim K. Lee, and Shuo Tang.\
-Biomedical Optics Express (2021) [[BOE]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5073&id=453470)
+Biomedical Optics Express (2021) 
+<!-- [[BOE]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5073&id=453470) -->
 
-- **A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations.**\
+- **[A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662).**\
 Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
 IEEE International Symposium on Biomedical Imaging (ISBI 2020).
-[[ISBI]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662)
 [[Code]](https://github.com/XinChenNottingham/SpatiallyConstrainedDCNN)
 <!-- [[Video]](assets/publication/ISBI2020.mp4) -->
 <br/>
@@ -51,9 +51,9 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 ## **Talks**
 - Aug. 2021: [Poster](assets/publication/NASIT2021.pdf) presentation at North American School of Information Theory (<span style="color:pink"> best poster prize!</span>);
 - Aug. 2021: [Empirical vector quantization](assets/SLT-chap10.pdf) at UBC statistical learning theory reading group; 
-- Jul. 2021: [Empirical Risk minimization and Rademacher averages](assets/SLT-chap6.pdf) at UBC statistical learning theory reading group; 
+- Jul. 2021: [Empirical risk minimization and Rademacher averages](assets/SLT-chap6.pdf) at UBC statistical learning theory reading group; 
 - Jun. 2021: [Attributed graph alignment](assets/publication/ISIT2021.pdf) at ISIT [(Video)](assets/publication/ISIT2021.mp4);
-- Jun. 2020: [Semidefinite programing for SBM clustering and Grothendieck inequality](assets/2020MDS.pdf) at UBC statistical inference on graphs reading group; 
+- Jun. 2020: [Semidefinite programing for SBM clustering and Grothendieck inequality](assets/2020MDS.pdf) at UBC stat-graph reading group; 
 - Apr. 2020: [Spatially constrained DCNN for image segmentation](assets/publication/ISBI2020.pdf) at ISBI;
 
 ## **Teaching**
