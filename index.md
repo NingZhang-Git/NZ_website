@@ -32,7 +32,7 @@ Submitted to ISIT 2022 [[arXiv]](https://arxiv.org/pdf/2201.10106.pdf)
 - **Attributed Graph Alignment.**\
 Ning Zhang, Weina Wang, and Lele Wang.\
 IEEE International Symposium on Information Theory (ISIT 2021).
-[[arXiv]](https://arxiv.org/pdf/2102.00665.pdf)\
+[[arXiv]](https://arxiv.org/pdf/2102.00665.pdf)
 <!-- <span style="color:blue"> *Our poster won the best poster prize in NASIT 2021.*</span> -->
 
 - **Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography.**\
@@ -49,7 +49,7 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 <br/>
 
 ## **Talks**
-- Aug. 2021: [Poster](assets/publication/NASIT2021.pdf) presentation at North American School of Information Theory (best poster prize!);
+- Aug. 2021: [Poster](assets/publication/NASIT2021.pdf) presentation at North American School of Information Theory (<span style="color:pink"> best poster prize!</span>);
 - Aug. 2021: [Empirical vector quantization](assets/SLT-chap10.pdf) at UBC statistical learning theory reading group; 
 - Jul. 2021: [Empirical Risk minimization and Rademacher averages](assets/SLT-chap6.pdf) at UBC statistical learning theory reading group; 
 - Jun. 2021: [Attributed graph alignment](assets/publication/ISIT2021.pdf) at ISIT [(Video)](assets/publication/ISIT2021.mp4);
