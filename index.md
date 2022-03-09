@@ -32,10 +32,7 @@ Submitted to ISIT 2022 [[arXiv]](https://arxiv.org/pdf/2201.10106.pdf)
 - **Attributed Graph Alignment.**\
 Ning Zhang, Weina Wang, and Lele Wang.\
 IEEE International Symposium on Information Theory (ISIT 2021).
-[[arXiv]](https://arxiv.org/pdf/2102.00665.pdf)
-[[Slides]](assets/publication/ISIT2021.pdf)
-[[NASIT-Poster]](assets/publication/NASIT2021.pdf)
-[[Video]](assets/publication/ISIT2021.mp4)\
+[[arXiv]](https://arxiv.org/pdf/2102.00665.pdf)\
 <span style="color:blue"> *Our poster won the best poster prize in NASIT 2021.*</span>
 
 - **Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography.**\
@@ -52,11 +49,20 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 <br/>
 <br/>
 
+## **Talks**
+- Aug. 2021: [[Poster]] (assets/publication/NASIT2021.pdf) presentation at North American School of Information Theory;
+- Aug. 2021: [[Empirical vector quantization]](assets/SLT-chap10.pdf) at UBC statistical learning theory reading group; 
+- Jul. 2021: [[Empirical Risk minimization and Rademacher averages]](assets/SLT-chap6.pdf) at UBC statistical learning theory reading group; 
+- Jun. 2021: [[Attributed grap alignment]](assets/publication/ISIT2021.pdf) at ISIT,[[Video]](assets/publication/ISIT2021.mp4);
+- Jun. 2020: [[Semidefinite programing on stachastic block model and Grothendieck inequality]](assets/2020MDS.pdf) at UBC statistical inference on graphs reading group; 
+
 ## **Teaching**
 - Fall 2021 Teaching assistant for STAT321 Stochastic Signals and Systems
 - Spring 2021 Teaching assistant for STAT321 Stochastic Signals and Systems
 - Fall 2020 Teaching assistant for STAT321 Stochastic Signals and Systems
 - Spring 2020 Lab assistant for ELEC291 Electrical Engineering Design Studio I
+<br/>
+<br/>
 
 ## **Other resources**
 [//]: <> (Things I enjoy reading regularly:)
