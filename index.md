@@ -43,20 +43,21 @@ Biomedical Optics Express (2021) [[BOE]](https://opg.optica.org/boe/fulltext.cfm
 Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
 IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 [[ISBI]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662)
-[[Slides]](assets/publication/ISBI2020.pdf)
 [[Code]](https://github.com/XinChenNottingham/SpatiallyConstrainedDCNN)
 <!-- [[Video]](assets/publication/ISBI2020.mp4) -->
 <br/>
 <br/>
 
 ## **Talks**
-- Aug. 2021: [[Poster]] (assets/publication/NASIT2021.pdf) presentation at North American School of Information Theory;
-- Aug. 2021: [[Empirical vector quantization]](assets/SLT-chap10.pdf) at UBC statistical learning theory reading group; 
-- Jul. 2021: [[Empirical Risk minimization and Rademacher averages]](assets/SLT-chap6.pdf) at UBC statistical learning theory reading group; 
-- Jun. 2021: [[Attributed grap alignment]](assets/publication/ISIT2021.pdf) at ISIT,[[Video]](assets/publication/ISIT2021.mp4);
-- Jun. 2020: [[Semidefinite programing on stachastic block model and Grothendieck inequality]](assets/2020MDS.pdf) at UBC statistical inference on graphs reading group; 
+- Aug. 2021: [Poster](assets/publication/NASIT2021.pdf) presentation at North American School of Information Theory;
+- Aug. 2021: [Empirical vector quantization](assets/SLT-chap10.pdf) at UBC statistical learning theory reading group; 
+- Jul. 2021: [Empirical Risk minimization and Rademacher averages](assets/SLT-chap6.pdf) at UBC statistical learning theory reading group; 
+- Jun. 2021: [Attributed grap alignment](assets/publication/ISIT2021.pdf) at ISIT[[Video]](assets/publication/ISIT2021.mp4);
+- Jun. 2020: [Semidefinite programing on stachastic block model and Grothendieck inequality](assets/2020MDS.pdf) at UBC statistical inference on graphs reading group; 
+- Apr. 2020: [Spatially constrained DCNN for image segmentation](assets/publication/ISBI2020.pdf) at ISBI;
 
 ## **Teaching**
+- Spring 2022 Teaching assistant for STAT321 Stochastic Signals and Systems
 - Fall 2021 Teaching assistant for STAT321 Stochastic Signals and Systems
 - Spring 2021 Teaching assistant for STAT321 Stochastic Signals and Systems
 - Fall 2020 Teaching assistant for STAT321 Stochastic Signals and Systems
