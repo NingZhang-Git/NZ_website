@@ -53,7 +53,7 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 - Aug. 2021: [Empirical vector quantization](assets/SLT-chap10.pdf) at UBC statistical learning theory reading group; 
 - Jul. 2021: [Empirical risk minimization and Rademacher averages](assets/SLT-chap6.pdf) at UBC statistical learning theory reading group; 
 - Jun. 2021: [Attributed graph alignment](assets/publication/ISIT2021.pdf) at ISIT [(Video)](assets/publication/ISIT2021.mp4);
-- Jun. 2020: [Semidefinite programing for SBM clustering and Grothendieck inequality](assets/2020MDS.pdf) at UBC stat-graph reading group; 
+- Jun. 2020: [Semi-definite programming for SBM clustering and Grothendieck inequality](assets/2020MDS.pdf) at UBC stat-graph reading group; 
 - Apr. 2020: [Spatially constrained DCNN for image segmentation](assets/publication/ISBI2020.pdf) at ISBI;
 
 ## **Teaching**
