@@ -24,10 +24,10 @@ Currently, I'm working on the random graph alignment problem. For such a problem
 <br/>
 
 ## **Publications and preprints**
-- **On the Feasible Region of Efficient Algorithms for
-Attributed Graph Alignment**\
+- **[On the Feasible Region of Efficient Algorithms for
+Attributed Graph Alignment](https://arxiv.org/pdf/2201.10106.pdf)**\
 Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
-Submitted to ISIT 2022 [[arXiv]](https://arxiv.org/pdf/2201.10106.pdf)
+Submitted to ISIT 2022.
 
 - **[Attributed Graph Alignment](https://arxiv.org/pdf/2102.00665.pdf)**\
 Ning Zhang, Weina Wang, and Lele Wang.\
