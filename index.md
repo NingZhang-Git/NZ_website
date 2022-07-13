@@ -27,7 +27,7 @@ Currently, I'm working on the random graph alignment problem. For such a problem
 - **[On the Feasible Region of Efficient Algorithms for
 Attributed Graph Alignment](https://arxiv.org/pdf/2201.10106.pdf)**\
 Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
-Submitted to ISIT 2022.
+IEEE International Symposium on Information Theory (ISIT 2022).
 
 - **[Attributed Graph Alignment](https://arxiv.org/pdf/2102.00665.pdf)**\
 Ning Zhang, Weina Wang, and Lele Wang.\
