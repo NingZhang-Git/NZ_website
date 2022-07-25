@@ -17,6 +17,7 @@ I am a research based master student in the department of ECE at the University 
 <br>
 <br>
 <br>
+<br>
 ## **Research**
 In a general sense, I am interested in the mathematical foundations of data science and computational problems, which may involve theories about probability, combinatorics, algorithms, statistics, optimization, etc. For computational tasks, I am particularly interested in providing provable performance guarantees that go beyond the worst-case scenario. I am excited to see the transformation of ideas across different research fields, and I am very motivated to prove things built on interesting intuitions or compelling application motivations. 
 Currently, I'm working on the random graph alignment problem. For such a problem, I mainly focus on characterizing the information-theoretical limits and designing efficient algorithms with a high probability of success.
