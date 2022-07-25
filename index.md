@@ -13,6 +13,7 @@ layout: home
 I am a research based master student in the department of ECE at the University of British Columbia and my advisor is  [Lele Wang](https://ece.ubc.ca/lele-wang/). I am also very fortunate to work with [Weina Wang](http://www.cs.cmu.edu/~weinaw/) on my thesis project about graph alignment. Prior to that, I obtained my Bachelor of Science in Physics from school of Poling (an academic talent program) at Nankai University in 2019. I was fortunate to have [Xin Chen](http://www.cs.nott.ac.uk/~pszxc/) to advise me on my undergraduate thesis.\
 [[Curriculum Vitae]](assets/NingZhang_CV.pdf)
 <br>
+<br>
 **Contact**: ningz[at]ece[dot]ubc[dot]ca
 <br>
 <br>
