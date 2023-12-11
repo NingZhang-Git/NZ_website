@@ -1,20 +1,20 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-# Welcome to my personal website!
+# Welcome to my website!
 layout: home
 ---
 
-<img style="float: left; margin-right: 30px; margin-top: 50px;" src="assets/img/profile.jpg" width="230"/>
+<img style="float: left; margin-right: 30px; margin-top: 50px;" src="assets/img/profile.jpg" width="150"/>
 
 # <center> <b>Ning Zhang</b> </center>
 <!-- ### <center>Welcom to my personal webpage!</center> -->
 ## **About Me**
 I am a DPhil student in the statistics department at the University of Oxford, under the supervision of Mihai Cucuringu and Xiaowen Dong. Prior to that, I received my MASc in Electrical and Computer Engineering from the University of British Columbia in 2022, and BSc in Physics from Nankai University in 2019.
-[[Curriculum Vitae]](assets/NingZhang_CV.pdf)
+[[Curriculum Vitae]](assets/NingZhang_CV.pdf)\
 **Contact**: ning.zhang[at]stats[dot]ox[dot]ac[dot]uk
 ## **Research**
-My research interest lies in the intersection of statistics and computation. In particular, I seek to better understand computational tasks on graphs using tools such as the spectral method, high-dimensional statistics, optimization, ML, etc. I am excited to see the transformation of ideas across different research fields and am motivated to prove things built on interesting intuitions.
+My research interest lies in the intersection of statistics and computation. In particular, I seek to better understand computational tasks on graphs using tools such as the spectral method, high-dimensional statistics, optimization, etc. I am excited to see the transformation of ideas across different research fields and I am motivated to prove things built on interesting intuitions.
 <br/>
 <br/>
 
