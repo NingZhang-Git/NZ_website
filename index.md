@@ -12,15 +12,7 @@ layout: home
 ## **About Me**
 I am a DPhil student in the statistics department at the University of Oxford, under the supervision of Mihai Cucuringu and Xiaowen Dong. Prior to that, I received my MASc in Electrical and Computer Engineering from the University of British Columbia in 2022, and BSc in Physics from Nankai University in 2019.
 [[Curriculum Vitae]](assets/NingZhang_CV.pdf)
-<br>
-<br>
-<br>
-<br>
 **Contact**: ning.zhang[at]stats[dot]ox[dot]ac[dot]uk
-<br>
-<br>
-<br>
-<br>
 ## **Research**
 My research interest lies in the intersection of statistics and computation. In particular, I seek to better understand computational tasks on graphs using tools such as the spectral method, high-dimensional statistics, optimization, ML, etc. I am excited to see the transformation of ideas across different research fields and am motivated to prove things built on interesting intuitions.
 <br/>
