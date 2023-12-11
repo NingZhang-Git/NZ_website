@@ -10,7 +10,7 @@ layout: home
 # <center> <b>Ning Zhang</b> </center>
 <!-- ### <center>Welcom to my personal webpage!</center> -->
 ## **About Me**
-I am a research based master student in the department of ECE at the University of British Columbia and my advisor is  [Lele Wang](https://ece.ubc.ca/lele-wang/). I am also very fortunate to work with [Weina Wang](http://www.cs.cmu.edu/~weinaw/) on my thesis project about graph alignment. Prior to that, I obtained my Bachelor of Science in Physics from school of Poling (an academic talent program) at Nankai University in 2019. I was fortunate to have [Xin Chen](http://www.cs.nott.ac.uk/~pszxc/) to advise me on my undergraduate thesis.\
+I am a DPhil student in the statistics department at the University of Oxford, under the supervision of Mihai Cucuringu and Xiaowen Dong. Prior to that, I received my MASc in Electrical and Computer Engineering from the University of British Columbia in 2022, and BSc in Physics from Nankai University in 2019.
 [[Curriculum Vitae]](assets/NingZhang_CV.pdf)
 <br>
 <br>
@@ -20,8 +20,7 @@ I am a research based master student in the department of ECE at the University 
 <br>
 <br>
 ## **Research**
-In a general sense, I am interested in the mathematical foundations of data science and computational problems, which may involve theories about probability, combinatorics, algorithms, statistics, optimization, etc. For computational tasks, I am particularly interested in providing provable performance guarantees that go beyond the worst-case scenario. I am excited to see the transformation of ideas across different research fields, and I am very motivated to prove things built on interesting intuitions or compelling application motivations. 
-Currently, I'm working on the random graph alignment problem. For such a problem, I mainly focus on characterizing the information-theoretical limits and designing efficient algorithms with a high probability of success.
+My research interest lies in the intersection of statistics and computation. In particular, I seek to better understand computational tasks on graphs using tools such as the spectral method, high-dimensional statistics, optimization, ML, etc. I am excited to see the transformation of ideas across different research fields and am motivated to prove things built on interesting intuitions.
 <br/>
 <br/>
 
@@ -51,6 +50,7 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 <br/>
 
 ## **Talks**
+- Nov. 2023: Maximum Likelihood Estimation on Stochastic Blockmodels for Directed Graph Clustering at the 12th International Conference on Complex Networks and their Applications
 - Aug. 2021: [Poster](assets/publication/NASIT2021.pdf) presentation at North American School of Information Theory (<span style="color:pink">**best poster prize!**</span>);
 - Aug. 2021: [Empirical vector quantization](assets/SLT-chap10.pdf) at UBC statistical learning theory reading group; 
 - Jul. 2021: [Empirical risk minimization and Rademacher averages](assets/SLT-chap6.pdf) at UBC statistical learning theory reading group; 
@@ -59,11 +59,12 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 - Apr. 2020: [Spatially constrained DCNN for image segmentation](assets/publication/ISBI2020.pdf) at ISBI;
 
 ## **Teaching**
-- Spring 2022 Teaching assistant for STAT321 Stochastic Signals and Systems
-- Fall 2021 Teaching assistant for STAT321 Stochastic Signals and Systems
-- Spring 2021 Teaching assistant for STAT321 Stochastic Signals and Systems
-- Fall 2020 Teaching assistant for STAT321 Stochastic Signals and Systems
-- Spring 2020 Lab assistant for ELEC291 Electrical Engineering Design Studio I
+- Michaelmas term 2023, Probability and Statistics for Network Analysis
+- Spring 2022, STAT321 Stochastic Signals and Systems
+- Fall 2021, STAT321 Stochastic Signals and Systems
+- Spring 2021, STAT321 Stochastic Signals and Systems
+- Fall 2020, STAT321 Stochastic Signals and Systems
+- Spring 2020, ELEC291 Electrical Engineering Design Studio I
 <br/>
 <br/>
 
