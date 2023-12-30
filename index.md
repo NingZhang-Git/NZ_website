@@ -30,7 +30,7 @@ IEEE International Symposium on Information Theory (ISIT 2022).
 Ning Zhang, Weina Wang, and Lele Wang.\
 IEEE International Symposium on Information Theory (ISIT 2021).
 <!-- [[arXiv]] -->
-<!-- <span style="color:blue"> *Our poster won the best poster prize in NASIT 2021.*</span> -->
+<!-- <span> *Our poster won the best poster prize in NASIT 2021.*</span> -->
 
 - **[Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5073&id=453470)**\
 Xin Zhou, Sina Maloufi, Daniel C. Louie, Ning Zhang, Qihao Liu, Tim K. Lee, and Shuo Tang.\
