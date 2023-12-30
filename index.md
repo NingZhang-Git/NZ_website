@@ -67,3 +67,6 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 ## **Other resources**
 [//]: <> (Things I enjoy reading regularly:)
 - [More Is Different: Broken symmetry and the nature of the hierarchical structure of science.](https://www.science.org/doi/10.1126/science.177.4047.393) By P W Anderson
+[//]: <> (Stack of Books I am reading/have read:)
+- [The Nature of Statistical Learning Theory](https://link.springer.com/book/10.1007/978-1-4757-3264-1)
+- [Graph REpresentation Learning](https://cs.mcgill.ca/~wlh/grl_book/)
