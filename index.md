@@ -16,7 +16,7 @@ I am a DPhil in Computational Discovery in the statistics department at the Univ
 <br/>
 <br/>
 ## **Research**
-My research interest lies in the intersection of statistics and computation. Currently, I am focusing on better understanding computational tasks on graphs using tools such as the spectral method, high-dimensional statistics, optimization, etc. My research involves proposing data-driven algorithms together with mathematical proofs, and at the same time, I seek to understand the nature of the problems/algorithms through the lens of those proofs. I am excited to see the transformation of ideas across different research fields.
+My research interest lies in the intersection of statistics and computation. Currently, I am focusing on better understanding computational tasks on graphs using tools such as statistics, spectral method, optimization, etc. My research involves proposing data-driven algorithms together with mathematical proofs, and at the same time, I seek to understand the nature of the problems/algorithms through the lens of those proofs. I am excited to see the transformation of ideas across different research fields.
 <br/>
 <br/>
 
