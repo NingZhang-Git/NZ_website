@@ -10,13 +10,13 @@ layout: home
 # <center> <b>Ning Zhang</b> </center>
 <!-- ### <center>Welcom to my personal webpage!</center> -->
 ## **About Me**
-I am a DPhil in the statistics department at the University of Oxford (Computational Discovery CDT), and my supervisors are Prof.Mihai Cucuringu and Prof.Xiaowen Dong. Prior to that, I received my MASc in Electrical and Computer Engineering from the University of British Columbia in 2022, and BSc in Physics from Nankai University in 2019.
+I am a DPhil in the statistics department at the University of Oxford (Computational Discovery CDT), and my supervisors are Prof.Mihai Cucuringu and Prof.Xiaowen Dong. Prior to that, I received my MASc in Electrical and Computer Engineering from the University of British Columbia, and BSc in Physics from Nankai University.
 [[Curriculum Vitae]](assets/NingZhang_CV.pdf)\
 **Contact**: ning.zhang[at]stats[dot]ox[dot]ac[dot]uk
 <br/>
 <br/>
 ## **Research**
-My research interest lies in the intersection of statistics and computation. Currently, I am focusing on better understanding computational tasks on graphs using tools such as statistics, spectral method, optimization, etc. My research involves proposing data-driven algorithms together with mathematical proofs, and at the same time, I seek to understand the nature of the problems/algorithms through the lens of those proofs. I am excited to see the transformation of ideas across different research fields.
+My research interest lies in the intersection of statistics and computation. Currently, I am focusing on better understanding computational tasks on graphs using tools such as probability theory, statistics, spectral methods, optimization, etc. My research involves proposing data-driven algorithms together with mathematical proofs, and at the same time, I seek to understand the nature of the problems and algorithms through the lens of those proofs. I am excited to see the transformation of ideas across different research fields.
 <br/>
 <br/>
 
@@ -64,9 +64,9 @@ IEEE International Symposium on Biomedical Imaging (ISBI 2020).
 <br/>
 <br/>
 
-## **Other resources**
+[//]: #**Other resources**
 [//]: <> (Things I enjoy reading regularly:)
-**Stack of books that I am reading/have read:**
-- [The Nature of Statistical Learning Theory](https://link.springer.com/book/10.1007/978-1-4757-3264-1)
-- [Graph Representation Learning](https://cs.mcgill.ca/~wlh/grl_book/)
-- [More Is Different: Broken symmetry and the nature of the hierarchical structure of science.](https://www.science.org/doi/10.1126/science.177.4047.393) By P W Anderson
+[//]: #**Stack of books that I am reading/have read:**
+[//]: #- [The Nature of Statistical Learning Theory](https://link.springer.com/book/10.1007/978-1-4757-3264-1)
+[//]: #- [Graph Representation Learning](https://cs.mcgill.ca/~wlh/grl_book/)
+[//]: #- [More Is Different: Broken symmetry and the nature of the hierarchical structure of science.][//]: #(https://www.science.org/doi/10.1126/science.177.4047.393) By P W Anderson
