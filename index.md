@@ -10,7 +10,7 @@ layout: home
 # <center> <b>Ning Zhang</b> </center>
 <!-- ### <center>Welcom to my personal webpage!</center> -->
 ## **About Me**
-I am a DPhil in the statistics department at the University of Oxford (Computational Discovery CDT), and my supervisors are Prof.Mihai Cucuringu and Prof.Xiaowen Dong. Prior to that, I received my MASc in Electrical and Computer Engineering from the University of British Columbia, and BSc in Physics from Nankai University.
+I am a DPhil in the statistics department at the University of Oxford (Computational Discovery CDT), and my supervisors are Prof. Mihai Cucuringu and Prof. Xiaowen Dong. Prior to that, I received my MASc in Electrical and Computer Engineering from the University of British Columbia, and BSc in Physics from Nankai University.
 [[Curriculum Vitae]](assets/NingZhang_CV.pdf)\
 **Contact**: ning.zhang[at]stats[dot]ox[dot]ac[dot]uk
 <br/>
