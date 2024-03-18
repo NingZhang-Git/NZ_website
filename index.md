@@ -21,6 +21,9 @@ My research interest lies in the intersection of statistics and computation. Cur
 <br/>
 
 ## **Publications and preprints**
+- **[Maximum Likelihood Estimation on Stochastic Blockmodels for Directed Graph Clustering](assets/publication/NASIT2021.pdf)
+Mihai Cucuringu, Xiaowen Dong, Ning Zhang\
+
 - **[On the Feasible Region of Efficient Algorithms for
 Attributed Graph Alignment](https://arxiv.org/pdf/2201.10106.pdf)**\
 Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
