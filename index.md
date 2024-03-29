@@ -25,25 +25,26 @@ My research interest lies in the intersection of statistics and computation. Cur
 Mihai Cucuringu, Xiaowen Dong and Ning Zhang.\
 [[arXiv]]((assets/MLE_DSBM.pdf))[[Code]](https://github.com/ningz97/MLE-DSBM)
 
-- **[On the Feasible Region of Efficient Algorithms for
-Attributed Graph Alignment](https://arxiv.org/pdf/2201.10106.pdf)**\
+- **On the Feasible Region of Efficient Algorithms for
+Attributed Graph Alignment**\
 Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
-IEEE Transactions on Information Theory.
+IEEE Transactions on Information Theory [arXiv](https://arxiv.org/pdf/2201.10106.pdf)
 
-- **[Attributed Graph Alignment](https://arxiv.org/pdf/2102.00665.pdf)**\
+
+- **Attributed Graph Alignment**\
 Ning Zhang, Weina Wang, and Lele Wang.\
 IEEE International Symposium on Information Theory (ISIT 2021).
-<!-- [[arXiv]] -->
+[[arXiv]] (https://arxiv.org/pdf/2102.00665.pdf)
 <!-- <span> *Our poster won the best poster prize in NASIT 2021.*</span> -->
 
-- **[Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5073&id=453470)**\
+- **Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography**\
 Xin Zhou, Sina Maloufi, Daniel C. Louie, Ning Zhang, Qihao Liu, Tim K. Lee, and Shuo Tang.\
-Biomedical Optics Express (2021) 
-<!-- [[BOE]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5073&id=453470) -->
+[Biomedical Optics Express (2021)](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5073&id=453470) 
+<!-- [[BOE]] -->
 
-- **[A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662)**\
+- **A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations**\
 Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
-IEEE International Symposium on Biomedical Imaging (ISBI 2020).
+[IEEE International Symposium on Biomedical Imaging (ISBI 2020)]((https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662)).
 [[Code]](https://github.com/XinChenNottingham/SpatiallyConstrainedDCNN)
 <!-- [[Video]](assets/publication/ISBI2020.mp4) -->
 <br/>
