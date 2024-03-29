@@ -28,13 +28,12 @@ Mihai Cucuringu, Xiaowen Dong and Ning Zhang.\
 - **On the Feasible Region of Efficient Algorithms for
 Attributed Graph Alignment**\
 Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
-IEEE Transactions on Information Theory [arXiv](https://arxiv.org/pdf/2201.10106.pdf)
+IEEE Transactions on Information Theory [[arXiv]](https://arxiv.org/pdf/2201.10106)
 
 
 - **Attributed Graph Alignment**\
 Ning Zhang, Weina Wang, and Lele Wang.\
-IEEE International Symposium on Information Theory (ISIT 2021).
-[[arXiv]] (https://arxiv.org/pdf/2102.00665.pdf)
+IEEE International Symposium on Information Theory (ISIT 2021) [[arXiv]] (https://arxiv.org/pdf/2102.00665)
 <!-- <span> *Our poster won the best poster prize in NASIT 2021.*</span> -->
 
 - **Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography**\
@@ -44,7 +43,7 @@ Xin Zhou, Sina Maloufi, Daniel C. Louie, Ning Zhang, Qihao Liu, Tim K. Lee, and 
 
 - **A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations**\
 Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
-[IEEE International Symposium on Biomedical Imaging (ISBI 2020)]((https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662)).
+[IEEE International Symposium on Biomedical Imaging (ISBI 2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662).
 [[Code]](https://github.com/XinChenNottingham/SpatiallyConstrainedDCNN)
 <!-- [[Video]](assets/publication/ISBI2020.mp4) -->
 <br/>
