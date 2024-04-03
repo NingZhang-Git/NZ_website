@@ -23,7 +23,7 @@ My research interest lies in the intersection of statistics and computation. Cur
 ## **Publications and preprints**
 - **Maximum Likelihood Estimation on Stochastic Blockmodels for Directed Graph Clustering**\
 Mihai Cucuringu, Xiaowen Dong and Ning Zhang.\
-[[arXiv]]((assets/MLE_DSBM.pdf))[[Code]](https://github.com/ningz97/MLE-DSBM)
+[[arXiv]](https://arxiv.org/abs/2403.19516)[[Code]](https://github.com/ningz97/MLE-DSBM)
 
 - **On the Feasible Region of Efficient Algorithms for
 Attributed Graph Alignment**\
