@@ -33,7 +33,7 @@ Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
 
 - **Attributed Graph Alignment**\
 Ning Zhang, Weina Wang, and Lele Wang.\
-[IEEE International Symposium on Information Theory (ISIT 2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9517967) [[arXiv]](https://arxiv.org/pdf/2102.00665)
+[IEEE International Symposium on Information Theory (ISIT 2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9517967) [[arXiv]](https://arxiv.org/abs/2102.00665v2)
 <!-- <span> *Our poster won the best poster prize in NASIT 2021.*</span> -->
 
 - **Investigating the depolarization property of skin tissue by degree of polarization uniformity contrast using polarization-sensitive optical coherence tomography**\
