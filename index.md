@@ -28,7 +28,7 @@ Mihai Cucuringu, Xiaowen Dong and Ning Zhang.\
 - **On the Feasible Region of Efficient Algorithms for
 Attributed Graph Alignment**\
 Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
-IEEE Transactions on Information Theory [[arXiv]](https://arxiv.org/pdf/2201.10106)
+[IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/document/10384315?source=authoralert)
 
 
 - **Attributed Graph Alignment**\
