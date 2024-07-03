@@ -1,3 +1,3 @@
 
-This website is build on the minina theme from Jekyll. \
-url: https://nz917.github.io/nz/
+This website is built on the minina theme from Jekyll. \
+url: [https://nz917.github.io/nz/](https://ningzhang-git.github.io/nz/)
