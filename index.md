@@ -28,7 +28,7 @@ Mihai Cucuringu, Xiaowen Dong and Ning Zhang.\
 - **[On the Feasible Region of Efficient Algorithms for
 Attributed Graph Alignment](https://ieeexplore.ieee.org/document/10384315?source=authoralert)**\
 Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
-IEEE Transactions on Information Theory， May 2024
+IEEE Transactions on Information Theory, May 2024
 
 
 - **[Attributed Graph Alignment](https://ieeexplore.ieee.org/document/10535901)**\
@@ -52,10 +52,7 @@ IEEE International Symposium on Biomedical Imaging, 2020.
 
 ## **Teaching**
 - Michaelmas term 2023, Probability and Statistics for Network Analysis
-- Spring 2022, STAT321 Stochastic Signals and Systems
-- Fall 2021, STAT321 Stochastic Signals and Systems
-- Spring 2021, STAT321 Stochastic Signals and Systems
-- Fall 2020, STAT321 Stochastic Signals and Systems
+- Fall 2020 - Spring 2022, STAT321 Stochastic Signals and Systems
 - Spring 2020, ELEC291 Electrical Engineering Design Studio I
 <br/>
 <br/>
