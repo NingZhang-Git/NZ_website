@@ -25,20 +25,20 @@ My research interest lies in the intersection of statistics and computation. Cur
 Mihai Cucuringu, Xiaowen Dong and Ning Zhang.\
 [[arXiv]](https://arxiv.org/abs/2403.19516)[[Code]](https://github.com/ningz97/MLE-DSBM)
 
-- **On the Feasible Region of Efficient Algorithms for
-Attributed Graph Alignment**\
+- **[On the Feasible Region of Efficient Algorithms for
+Attributed Graph Alignment](https://ieeexplore.ieee.org/document/10384315?source=authoralert)**\
 Ziao Wang, Ning Zhang, Weina Wang, and Lele Wang.\
-[IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/document/10384315?source=authoralert)
+IEEE Transactions on Information Theory， May 2024
 
 
-- **Attributed Graph Alignment**\
-Ning Zhang, Weina Wang, and Lele Wang.\
-[IEEE International Symposium on Information Theory (ISIT 2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9517967) [[arXiv]](https://arxiv.org/abs/2102.00665v2)
+- **[Attributed Graph Alignment](https://ieeexplore.ieee.org/document/10535901)**\
+Ning Zhang, Ziao Wang, Weina Wang, and Lele Wang.\
+IEEE Transactions on Information Theory, 2024 
 <!-- <span> *Our poster won the best poster prize in NASIT 2021.*</span> -->
 
-- **A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations**\
+- **[A spatially constrained deep convolutional neural network for nerve fiber segmentation in corneal confocal microscopic images using inaccurate annotations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662)**\
 Ning Zhang, Susan Francis, Rayaz A. Malik and Xin Chen.\
-[IEEE International Symposium on Biomedical Imaging (ISBI 2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9098662).
+IEEE International Symposium on Biomedical Imaging, 2020.
 [[Code]](https://github.com/XinChenNottingham/SpatiallyConstrainedDCNN)
 <!-- [[Video]](assets/publication/ISBI2020.mp4) -->
 <br/>
